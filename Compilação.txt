@@ -1,0 +1,8 @@
+Compilação
+javac Cliente.java ServidorTeste.java
+
+Terminal 1:
+java ServidorTeste
+
+Terminal 2:
+java Cliente
